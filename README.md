@@ -1,27 +1,26 @@
-# ByteBank
+<h1  align="center">Byte Bank</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=Projeto&message=Typescript&color=00BFFF&style=for-the-badge&logo=ghost"/> 
+</div>
 
-## Development server
+<p align="center">Banco.</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<h2>🚀 Objetivo</h2>
 
-## Code scaffolding
+<p>Feito pra testar meus conhecimentos em Angular e TypeScript
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2>🔧 Instalação</h2>
 
-## Build
+Em breve...
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<h2>⚙️ Utilizando</h2>
 
-## Running unit tests
+Em breve...
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<h2>🤝 Contribuindo </h2>
 
-## Running end-to-end tests
+* Conte a outras pessoas sobre este projeto 📢
+* Dê estrela no projeto ⭐️
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h4 align="center">🚧 Em andamento 🚧 </h4>

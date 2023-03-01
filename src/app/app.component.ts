@@ -8,11 +8,11 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'byte-bank';
 
-  transferencia: any;
+  transferencias: any[] = [];
 
   transferir($event) {
-    console.log($event);
+    const transferencia = {... $event, data: new Date()};
 
-    this.transferencia = $event;
+    this.transferencias.push(transferencia);
   }
 }

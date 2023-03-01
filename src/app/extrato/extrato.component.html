@@ -1,3 +1,5 @@
-
-<p>Valor: {{ transferencia?.valor }}</p>
-<p>Destino: {{ transferencia?.destino }}</p>
+<div *ngFor="let transferencia of transferencias">
+  <p>Valor: {{ transferencia?.valor }}</p>
+  <p>Destino: {{ transferencia?.destino }}</p>
+  <p>Data: {{ transferencia?.data }}</p>
+</div>

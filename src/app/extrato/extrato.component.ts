@@ -6,7 +6,7 @@ import { Component, Input } from '@angular/core';
   styleUrls: ['./extrato.component.scss']
 })
 export class ExtratoComponent {
-  @Input() transferencia: any;
+  @Input() transferencias: any;
 
   constructor() {
 

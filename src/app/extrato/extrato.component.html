@@ -6,10 +6,9 @@
   </thead>
   <tbody>
     <tr *ngFor="let transferencia of transferencias">
-      <td>{{ transferencia?.data }}</td>
-      <td>{{ transferencia?.valor }}</td>
+      <td>{{ transferencia?.data | date: "short"}}</td>
+      <td>{{ transferencia?.valor | currency }}</td>
       <td>{{ transferencia?.destino }}</td>
     </tr>
   </tbody>
 </table>
-

@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-extrato',
@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./extrato.component.scss']
 })
 export class ExtratoComponent {
+  @Input() transferencia: any;
 
+  constructor() {
+
+  }
+
+  ngOnInit() {
+
+  }
 }
